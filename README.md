@@ -1,1 +1,1 @@
-This is another automation script I am working on, it is similar to the Fullstack one, but this one is o nly for a frontend.
+This is another automation script I am working on, it is similar to the Fullstack one, but this one is only for a frontend.
